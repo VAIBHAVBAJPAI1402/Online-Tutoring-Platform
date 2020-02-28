@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 .bgimg{
 	background-image: url('img/bckg.jpg');
 	background-size: 100% 100%;
@@ -10,11 +13,12 @@
 	padding-top: 250px;
 	box-sizing: border-box;
 }
-.headerset h2{
+.headerset h1{
 	font-size: 45px;
+	font-weight: bold;
 }
 .headerset h1{
-	color:grey;
+	color:white;
 	font-weight: bold;
 }
 .courses{
@@ -80,6 +84,9 @@
 	
 	line-height: 50px;
 }
+a{
+	scroll-behavior: smooth;
+}
 
 @media(min-width: 992px){
 
@@ -109,6 +116,8 @@
 
 .instruct{
 	height: 1000px;
+}
+
 }
 
 }

@@ -1,8 +1,12 @@
 .bgimg{
-	background-image: url('img/course/02.jpg');
+	background-image: url('img/course/03.jpg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	width:100%;
-	
+
 	height:660px;
+}
+.desc .footer{
+	margin-top: 50px;
+	padding: 20px;
 }

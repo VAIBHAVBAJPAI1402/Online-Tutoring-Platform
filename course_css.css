@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 .bgimg{
 	background-image: url('img/course/01.webp');
 	background-size: 100% 100%;
@@ -14,7 +17,7 @@
 	font-size: 45px;
 }
 .headerset h1{
-	color:grey;
+	color:white;
 	font-weight: bold;
 }
 .courses{
