@@ -22,18 +22,7 @@ html{
 .container .row .part ul{
 	list-style: none;
 }
-.container .row .part ul li{
-	margin-top: -10px;
-	margin-left: -55px;
-	width:120%; 
-	height: 40px;
-	background: white;
-	color: black;
-	font-weight: bold;
-	font-size: 30px;
-	text-align: center;
-	padding-top: 5px;
-}
+
 .mycol{
 
 }

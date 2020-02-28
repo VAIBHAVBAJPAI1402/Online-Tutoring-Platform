@@ -84,9 +84,7 @@ html{
 	
 	line-height: 50px;
 }
-a{
-	scroll-behavior: smooth;
-}
+
 
 @media(min-width: 992px){
 
@@ -127,7 +125,7 @@ a{
 	margin: 20px;
 }
 .portfolio{
-	height:2600px;
+	height:2680px;
 }
 
 .instruct{
