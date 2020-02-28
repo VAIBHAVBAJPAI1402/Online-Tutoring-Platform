@@ -10,3 +10,13 @@
 	margin-top: 50px;
 	padding: 20px;
 }
+
+@media(max-width: 600px){
+
+.info2{
+	margin-top: 20px;
+	
+}
+
+
+}
